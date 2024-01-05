@@ -1,21 +1,31 @@
-# Excel Data Analysis Project
+AtliQ Hardware - Sales & Finance Analytics
 
-This repository contains various files related to an Excel data analysis project. Below is a brief description of each file:
+Objective
 
-- **Market_performance Report_Final_03.pdf**: This is the final report summarizing market performance analysis of various countries.
+To optimize AtliQ Hardware's sales and net gross margins through data-driven insights from a vast sales dataset.
 
-- **Project_Priority Matrix.pdf**: A document outlining project priorities on the bais of its Feasibility and Impact.
+Key Projects
 
-- **apple_products_sales.xlsx**: Excel file containing sales data for Apple products.
+1. Sales Analysis
+   
+Goal: Generate a customer performance report and compare market performance vs. sales targets.
+Impact: Identified critical sales patterns, KPIs, and expansion opportunities.
 
-- **movies_dax.pdf**: A report on the performance of movies in the DAX index.
+2. Financial Analysis
+   
+Goal: Create GM reports by Years.
 
-- **report_1_bmp.pdf**: Report 1 with the presentation of financial report of companies.
+Impact: Comprehensive financial evaluations, enhanced stakeholder communication, and informed budgeting.
 
-- **sales_report_1.pdf**: A detailed sales report for analysis.
 
-- **scenario planning tool.pdf**: A tool for scenario planning where you can analyse wether its a good idea for giving particular proportion of discount.
+Technical Skill:
+ETL, 
+Power Query for date tables, 
+DAX for calculated columns, 
+ Power Pivot for data relationships.
+ 
+Soft Skill:
+Expertise in Sales & Finance Reports design, report optimization, and systematic report-building.
 
-Feel free to explore and use these files for reference or analysis.
-
-For more details about the project, refer to the respective folders and documentation provided.
+Why It Matters
+Unlocking insights from this data will empower AtliQ Hardware with strategic decisions, boosting sales, profitability, and global market presence.
